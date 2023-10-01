@@ -1,0 +1,1 @@
+F:\GitHub\bpt_core\server\FXServer.exe +exec server.cfg
